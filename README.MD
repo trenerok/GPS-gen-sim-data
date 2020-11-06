@@ -8,11 +8,11 @@ How to use:
 3) Go to the script folder. Run:
 ./gen_sim_data.sh -p '/Users/admin/tools/gps-sdr-sim/gps-sdr-sim' -c '62.393907,17.332739' -o 'MINSK'
 
-where:
- -p  - path to your gps-sdr-sim binaty file.
- -c  - spoofed coordinates.
- -o  - result file name.
+where:<br>
+ -p  - path to your gps-sdr-sim binaty file.<br>
+ -c  - spoofed coordinates.<br>
+ -o  - result file name.<br>
 
 
-gps-sdr-sim - https://github.com/osqzss/gps-sdr-sim
+gps-sdr-sim - https://github.com/osqzss/gps-sdr-sim<br>
 portapack mayhem - https://github.com/eried/portapack-mayhem/wiki/GPS-Sim 
