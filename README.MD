@@ -5,8 +5,8 @@ Auto download last RINEX navigation file for GPS ephemerides from 'https://cddis
 How to use:
 1) Register on site https://urs.earthdata.nasa.gov (for access to the NASA brdc files)
 2) Put credentials to the '.netrc' file. (from first step). More info - https://cddis.nasa.gov/Data_and_Derived_Products/CreateNetrcFile.html
-3) Go to the script folder. Run:
-./gen_sim_data.sh -p '/Users/admin/tools/gps-sdr-sim/gps-sdr-sim' -c '62.393907,17.332739' -o 'MINSK'
+3) Go to the script folder. Run:<br>
+`./gen_sim_data.sh -p '/Users/admin/tools/gps-sdr-sim/gps-sdr-sim' -c '62.393907,17.332739' -o 'MINSK'`
 
 where:<br>
  -p  - path to your gps-sdr-sim binaty file.<br>
